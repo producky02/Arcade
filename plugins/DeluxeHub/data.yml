@@ -1,0 +1,9 @@
+chat_locked: false
+spawn:
+  ==: org.bukkit.Location
+  world: crmapin
+  x: -110.41666313840345
+  y: 158.0
+  z: -9.500750330490305
+  pitch: 2.3999887
+  yaw: 0.4482422
